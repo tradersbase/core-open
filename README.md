@@ -8,7 +8,7 @@
 
 🔗 **Live Demo**: [https://www.tradersbase.pro/](https://www.tradersbase.pro/)
 
-📜 **Contract Address (CA)**: `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+📜 **Contract Address (CA)**: `C5UwLD2N64jhoPJ2ekTv84dbGaUjmb89S6UwNzVopump`
 
 ---
 
